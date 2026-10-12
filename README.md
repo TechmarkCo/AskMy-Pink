@@ -1,6 +1,7 @@
 # AskMy.pink
 
 **Official site:** https://askmy.pink
+**Slack channel:** #askmy-pink
 
 ## Concept
 AskMy.pink is a new social network platform powered by AI. People typically ask their spouse, family, or friends for input before making decisions. This platform lets you tag someone (e.g. @wife) to ask a question, which is passed to that person as a chat message — enhanced with AI suggestions and research.
@@ -21,3 +22,5 @@ This mirrors how family and couples naturally relate — by consulting each othe
 
 ## Repository
 This repo holds business development, marketing plans, and technical roadmaps for the platform.
+
+All updates are also notified in the #askmy-pink Slack channel.
