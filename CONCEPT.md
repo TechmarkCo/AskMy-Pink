@@ -1,8 +1,8 @@
 # AskMy.pink – Full Concept & Description
 
 **Official site:** https://askmy.pink  
-**Primary repo:** https://github.com/JohnTechmark/AskMy-Pink  
-**Landing page repo:** https://github.com/JohnTechmark/askmy-pink-landing  
+**Primary repo:** https://github.com/TechmarkCo/AskMy-Pink  
+**Landing page repo:** https://github.com/TechmarkCo/askmy-pink-landing  
 **Slack:** #askmy-pink (C0C827ANLEB)
 
 ## The Idea
@@ -44,3 +44,5 @@ This is normally how family and couples relate, by asking each other before maki
 - Slack channel reference
 
 All ongoing work on the project is saved here and notified in the #askmy-pink Slack channel.
+
+> Moved/forked to the TechmarkCo organization.

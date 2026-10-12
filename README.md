@@ -24,6 +24,8 @@ This is normally how family and couples relate, by asking each other before maki
 ## Repository
 This repo holds the concept, business development, marketing plans, and technical roadmaps for the platform.
 
-Related landing page: https://github.com/JohnTechmark/askmy-pink-landing
+Related landing page: https://github.com/TechmarkCo/askmy-pink-landing
 
 All updates and any work done on the project are saved here and notified in the #askmy-pink Slack channel.
+
+> Now under the TechmarkCo organization: https://github.com/TechmarkCo/AskMy-Pink
