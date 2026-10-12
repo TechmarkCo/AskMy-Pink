@@ -1,26 +1,29 @@
 # AskMy.pink
 
-**Official site:** https://askmy.pink
-**Slack channel:** #askmy-pink
+**Official site:** https://askmy.pink  
+**Slack channel:** #askmy-pink  
+**Full concept:** see [CONCEPT.md](CONCEPT.md)
 
 ## Concept
-AskMy.pink is a new social network platform powered by AI. People typically ask their spouse, family, or friends for input before making decisions. This platform lets you tag someone (e.g. @wife) to ask a question, which is passed to that person as a chat message — enhanced with AI suggestions and research.
+AskMy.pink is a new social network platform powered by AI. People usually ask their spouse or friends about something when making a decision. This platform lets you tag someone (e.g. @wife) to ask a question, which is passed to that person as a chat message — enhanced with AI suggestions and research.
 
 ### Example
 Husband asks wife: "@wife where do you want to go eat around main street"
 
-The AI researches nearby options, considers preferences/habits, and passes both the original message and recommendations (including possible AI-assisted reservations or booking suggestions) to the wife to answer.
+The AI will help do some research and pass both the message and recommendations to the wife to answer. The AI will have recommendations with possible of AI reservations or booking or other suggestions.
 
-This mirrors how family and couples naturally relate — by consulting each other — but supercharged with an AI assistant.
+This is normally how family and couples relate, by asking each other before making decision, but now with AI assistant.
 
 ## Key Features
 - Mobile-first app for on-the-go use
-- Easy voice input and notifications
-- AI learns user habits for personalized recommendations
+- Easy to use voice and notifications
+- AI learns user habits and offers personalized recommendations
 - Seamless tagging and chat delivery with AI insights
-- Support for bookings, reservations, and actionable suggestions
+- Support for bookings, reservations, and other actionable suggestions
 
 ## Repository
-This repo holds business development, marketing plans, and technical roadmaps for the platform.
+This repo holds the concept, business development, marketing plans, and technical roadmaps for the platform.
 
-All updates are also notified in the #askmy-pink Slack channel.
+Related landing page: https://github.com/JohnTechmark/askmy-pink-landing
+
+All updates and any work done on the project are saved here and notified in the #askmy-pink Slack channel.
